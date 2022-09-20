@@ -19,11 +19,11 @@ where
 
 `summ_stats_file` is the location and name of the file containing individual BetaYG and seBetaYG for the disease outcomes.
 
-**N.B.** The `snp_info` file should contain the summary statistics of the exposure genetic variants (as given in **Supplementary File 1d**) as well as appropriate proxy variants, and the `summ_stats_file` file should contain the exposure genetic variants (or best available proxies) extracted from the disease outcome GWAS.
+**N.B.** The `snp_info` file should contain the summary statistics of the exposure genetic variants (as given in **Supplementary File 1d**) as well as appropriate proxy variants, and the `summ_stats_file` file should contain the exposure genetic variants (or best available proxies) extracted from the disease outcome GWAS summary statistics.
 
 ### 2-meta_analysis.R
 
-Conducts random-effects meta-analysis of published GWAS and FinnGen IVW MR results together for appropriate matching outcomes. Generates **Supplementary File 1e, 1f and 1h**. Requires the output from 1-MR_analysis.R as well as a file of diseases to be meta-analysed together (including meta-analysed trait name) titled `disease_meta_analysis.txt`, of the form:
+Conducts random-effects meta-analysis of published GWAS and FinnGen IVW MR results together for appropriate matching outcomes. Generates **Supplementary File 1e, 1f and 1h**. Requires the output from 1-MR_analysis.R as well as a file of diseases to be meta-analysed together (including meta-analysed trait name), titled `disease_meta_analysis.txt`, of the form:
 ```
 Trait     Meta_name
 CAD_GWAS  CAD_meta
@@ -38,7 +38,7 @@ Calculates Benjamini-Hochberg false discovery rates of the 37 disease IVW MR res
 
 ## Updated results tables and plots based on larger GWAS releases since publication
 
-The pdfs containing figures and supplementary material relating to updates based on larger FinnGen and published GWAS releases to be found in the `updated_results_*` folders. The write-ups corresponding to these releases can be found in the Comments of the publication (accessible here: https://elifesciences.org/articles/72452). The FinnGen releases used for each update are given below:
+The pdfs containing figures and supplementary material relating to updates based on larger FinnGen and published GWAS releases can be found in the `updated_results_*` folders. The write-ups corresponding to these releases can be found in the Comments section of the publication (accessible here: https://elifesciences.org/articles/72452). The FinnGen releases used for each update are given below:
 
 `updated_results_sept2022` (to be uploaded soon) - FinnGen release R7.
 
