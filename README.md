@@ -2,7 +2,7 @@
 
 Scripts used to conduct original analyses and updated results based on larger GWAS releases since publication.
 
-## R scripts used to conduct analysis and generate results tables
+## R scripts used to conduct analyses and generate results tables
 
 Scripts are split into three parts:
 
