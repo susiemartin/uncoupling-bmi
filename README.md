@@ -1,6 +1,8 @@
-# MR uncoupling scripts and updated results from Martin et al. (eLife, 11:e72452, 2022)
+# MR uncoupling scripts and updated results from Martin et al. (2022)
 
-Scripts used to conduct analyses for *Martin et al. Disease consequences of higher adiposity uncoupled from its adverse metabolic effects using mendelian randomisation. eLife, 11:e72452, 2022* (https://elifesciences.org/articles/72452) and updated results based on larger GWAS releases since publication.
+Scripts used to conduct analyses for Martin et al. (2022)[^1] and updated results based on larger GWAS releases since publication.
+
+[^1]: Susan Martin, Jessica Tyrrell, Elizabeth Thomas, Matthew Bown, Andrew Wood, Robin Beaumont, Lam Tsoi, Philip E Stuart, James Elder, et al. Disease consequences of higher adiposity uncoupled from its adverse metabolic effects using mendelian randomisation. eLife, 11:e72452, 2022 (https://elifesciences.org/articles/72452).
 
 ## R scripts used to conduct analyses and generate results tables
 
