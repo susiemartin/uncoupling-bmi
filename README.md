@@ -36,7 +36,7 @@ PCOS_GWAS PCOS_meta
 
 Calculates Benjamini-Hochberg false discovery rates of the 37 disease IVW MR results. Requires output from 2-meta_analysis.R only.
 
-## Updated results based on larger FinnGen and GWAS releases since publication
+## Updated results based on larger GWAS releases since publication
 
 The pdfs containing figures and supplementary material relating to updated results based on larger FinnGen and published GWAS releases since publication can be found in the `updated_results_*` folders. The write-ups corresponding to these releases can be found in the Comments section of the publication (accessible here: https://elifesciences.org/articles/72452). The FinnGen releases used for each update are given below:
 
