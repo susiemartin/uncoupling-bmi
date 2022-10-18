@@ -42,6 +42,6 @@ Calculates Benjamini-Hochberg false discovery rates of the 37 disease IVW MR res
 
 The figures and supplementary files corresponding to updated results based on larger FinnGen and published GWAS releases since publication can be found in the `updated_results_*` folders. The write-ups corresponding to these releases can be found in the Comments section of the publication (accessible here: https://elifesciences.org/articles/72452). The FinnGen releases used for each update are given below:
 
-`updated_results_sept2022` (to be uploaded soon) - FinnGen release R7.
+`updated_results_october2022` (to be uploaded soon) - FinnGen release R7.
 
 `updated_results_april2022` - FinnGen release R6.
